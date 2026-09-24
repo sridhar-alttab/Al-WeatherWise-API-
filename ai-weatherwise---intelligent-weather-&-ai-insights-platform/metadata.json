@@ -1,0 +1,8 @@
+{
+  "name": "AI WeatherWise - Intelligent Weather & AI Insights Platform",
+  "description": "MERN-based intelligent weather platform with real-time forecasting, Google Gemini AI weather insights, clothing & travel recommendations, severe weather alerts, and user & admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
